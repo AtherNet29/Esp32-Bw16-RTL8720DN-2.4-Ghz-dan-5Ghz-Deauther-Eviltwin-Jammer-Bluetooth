@@ -176,7 +176,6 @@
     The price above is for 1 copy of the binary file and cannot be duplicated.<br>
     ✅ Technical Support via Telegram (Troubleshooting and custom wiring assistance).
   </p>
-  <h3>🛒 Price: RP 50.000</h3>
   <br>
   <a href="https://t.me/+6283141852690">
   <img src="https://img.shields.io/badge/Buy_Now-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
