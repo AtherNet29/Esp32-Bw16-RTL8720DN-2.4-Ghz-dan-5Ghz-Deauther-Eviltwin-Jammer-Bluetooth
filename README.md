@@ -167,7 +167,6 @@
 <div align="center">
   <h2>💎 Get the Full / Premium Version</h2>
   <p>The file available in this repository is a <b>Trial Version</b>, strictly limited to initial demonstration.</p>
-  <p><b>Benefits of purchasing the Premium Version:</b></p>
   <br>
   <a href="https://t.me/+6283141852690">
   <img src="https://img.shields.io/badge/Buy_Now-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
